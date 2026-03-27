@@ -1,4 +1,7 @@
 [core]
     remote = dagshub
 ['remote "dagshub"']
-    url = https://dagshub.com/CallmeAndree/sentiment-dvc
+    url = https://dagshub.com/CallmeAndree/sentiment-dvc.dvc
+    auth = basic
+    user = CallmeAndree
+    password = 58ed22cf0959e6271d71c74dba1d18a77ef55218
